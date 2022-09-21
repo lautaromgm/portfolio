@@ -9,7 +9,7 @@ const Skills = ({ title, dark, id }) => {
         <Typography variant="h3">Mis Apps</Typography>
         <div className={classes.container}>
           <iframe
-            src="https://fascinating-bavarois-d87120.netlify.app/"
+            src="https://lautaromgm-apps.netlify.app/"
             frameborder="0"
             className={classes.responsiveiframe}
           />
